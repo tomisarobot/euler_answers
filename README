@@ -1,5 +1,8 @@
 This script checks correctness for a bunch of the project
-euler problems.  Pipe comma separated answers into stdin
-like so:
+euler problems.  Pipe comma separated answers that start 
+with the problem number into stdin.
+
+Assuming problem 0 was the meaning of the life...
 
 echo "0,42" | euler_answers
+
