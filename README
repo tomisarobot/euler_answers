@@ -1,0 +1,5 @@
+This script checks correctness for a bunch of the project
+euler problems.  Pipe comma separated answers into stdin
+like so:
+
+echo "0,42" | euler_answers
