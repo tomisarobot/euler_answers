@@ -2,7 +2,7 @@ This script checks correctness for a bunch of the project
 euler problems.  Pipe comma separated answers that start 
 with the problem number into stdin.
 
-Assuming problem 0 was the meaning of the life...
+Assuming problem 0 was life, the universe, and everything...
 
 echo "0,42" | euler_answers
 
